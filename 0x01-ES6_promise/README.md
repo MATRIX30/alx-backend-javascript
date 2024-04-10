@@ -6,11 +6,11 @@
 
 ### Read or watch:
 
-- Promise
-- JavaScript Promise: An introduction
-- Await
-- Async
-- Throw / Try
+- [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [JavaScript Promise: An introduction](https://developers.google.com/web/fundamentals/primers/promises)
+- [Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
+- [Async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+- [Throw / Try](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw)
 
 ### Learning Objectives
 
