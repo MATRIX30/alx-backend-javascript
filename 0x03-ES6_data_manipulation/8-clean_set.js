@@ -9,6 +9,6 @@ export default function cleanSet(setList, startString) {
       finalStr += '-';
     }
   }
-  finalStr = finalStr.substring(0,finalStr.length - 1);
+  finalStr = finalStr.substring(0, finalStr.length - 1);
   return finalStr;
 }
