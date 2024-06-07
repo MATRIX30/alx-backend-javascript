@@ -1,7 +1,9 @@
 /**
- * This is a program that prints to the STDOUT
+ * function to print a message to the console
+ * @message {string} message to print
  */
-function displayMessage(message) {
+function printMessage(message) {
   console.log(message);
 }
-module.exports = displayMessage;
+
+module.exports = printMessage;
