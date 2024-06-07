@@ -1,5 +1,5 @@
 /**
- * function to print a message to the console
+ * function to print a message to the STDOUT
  * @message {string} message to print
  */
 function printMessage(message) {
